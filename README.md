@@ -18,8 +18,10 @@
     * Возможно, на начальном этапе, потенциалные специалист еще не знакомы с таким направлением и имеет смысл ориентироваться на развитие следующих навыков 
         * Linux System Administration: Networking, Containerization, Shell Scripting, OS Troubleshooting
 * Основные требования
-    * Понимание (на данный момент или в процессе обучения), что это данное направление им интересно и есть готованость погружаться в указанные технологии
-    * Способность читать и воспринимать сложные технические тексты на английском (документация провайдеров, руководства Linux/Unix (man)
+    * Понимание (на данный момент или в процессе обучения), что данное направление им интересно и есть готованость погружаться в указанные технологии
+    * Способность читать и воспринимать сложные технические тексты на английском
+         * Документация провайдеров
+         * Руководства (man) Linux/Unix
 
 ## Детали 
 
@@ -40,7 +42,7 @@
     * GitOps tools
         * [Flux](https://fluxcd.io/flux/get-started/)
         * [Argo CD](https://argo-cd.readthedocs.io/en/stable/getting_started/)
-* Инструменты мониторинга
+* Инструменты мониторинга и [`наблюдаемости`](https://en.wikipedia.org/wiki/Observability)
     * [Prometheus](https://prometheus.io/docs/prometheus/latest/getting_started/)
     * [Grafana](https://grafana.com/docs/grafana/latest/getting-started/)
     * [InfluxDB](https://docs.influxdata.com/influxdb/v2/get-started/)
